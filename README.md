@@ -122,7 +122,7 @@ Reponun son sürümünü çekiyoruz (Güncellemenin main branchte olduğunu vars
 git pull
 ```
 
-Dockerı yeniden ayağa kaldırıyoruz.
+Dockerı yeniden ayağa kaldırıyoruz...
 ```console
 docker-compose up -d
 ```
